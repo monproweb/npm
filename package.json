@@ -1,0 +1,23 @@
+{
+	"name": "mpw-learn-npm-package-json",
+	"author": "Thomas Erhel",
+	"description": "A project that does something awesome",
+	"license": "MIT",
+	"version": "1.2.0",
+	"keywords": [
+		"freecodecamp",
+		"boilerplate",
+		"npm"
+	],
+	"dependencies": {
+		"express": "^4.14.0"
+	},
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/monproweb/npm.git"
+	}
+}
